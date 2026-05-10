@@ -1,0 +1,15 @@
+# Binaries
+/bin/
+/server
+*.exe
+*.test
+*.out
+
+# Coverage / profiling
+*.prof
+coverage.txt
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
